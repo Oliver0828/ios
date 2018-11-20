@@ -11,7 +11,7 @@
                     <key>kind</key> 
                     <string>software-package</string> 
                     <key>url</key> 
-                    <string>安装包下载地址</string> 
+                    <string>https://tx27.oss-cn-hangzhou.aliyuncs.com/%E5%8D%9A%E4%BF%A1.ipa</string> 
                 </dict> 
             </array> 
             <key>metadata</key> 
@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key> 
                 <string>com.xxx(包名)</string> 
                 <key>bundle-version</key> 
-                <string>1.6.0(版本号）</string> 
+                <string>1.0.52</string> 
                 <key>kind</key> 
                 <string>software</string> 
                 <key>title</key> 
-                <string>xx（安装包名字）</string> 
+                <string>博信</string> 
             </dict> 
         </dict> 
     </array> 
